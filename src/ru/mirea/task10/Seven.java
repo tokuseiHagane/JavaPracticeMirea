@@ -27,6 +27,5 @@ public class Seven {
         {
             print_number_factor(n, div+1);
         }
-
     }
 }
