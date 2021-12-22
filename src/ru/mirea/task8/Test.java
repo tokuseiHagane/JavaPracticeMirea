@@ -52,7 +52,7 @@ public class Test extends JFrame {
 
     public Test()
     {
-        super("Первое задание");
+        super("Task 1");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(WIDTH,HEIGHT);
         setVisible(true);

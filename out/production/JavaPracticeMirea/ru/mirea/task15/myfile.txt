@@ -1,4 +1,4 @@
-Hello world!
-testMac
-123456789
-5689HELLO THERE\nrandom shit
+Мир прекрасен
+2479912
+abcdefghigk
+EOF
